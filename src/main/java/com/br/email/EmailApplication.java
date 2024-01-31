@@ -1,13 +1,13 @@
-package com.br.email2;
+package com.br.email;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Email2Application {
+public class EmailApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Email2Application.class, args);
+        SpringApplication.run(EmailApplication.class, args);
     }
 
 }
