@@ -1,4 +1,4 @@
-package com.br.email.enums;
+package com.br.user.enums;
 
 public enum Status {
 

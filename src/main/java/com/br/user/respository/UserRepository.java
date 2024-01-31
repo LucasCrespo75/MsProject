@@ -1,6 +1,6 @@
-package com.br.email.respository;
+package com.br.user.respository;
 
-import com.br.email.model.UserModel;
+import com.br.user.model.UserModel;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

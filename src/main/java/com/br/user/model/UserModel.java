@@ -1,4 +1,4 @@
-package com.br.email.model;
+package com.br.user.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
